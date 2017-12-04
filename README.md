@@ -1,7 +1,7 @@
 # Stealed-content-finder
-1.export_original.php - скрипт для парсину основного сайту
-2.export_plagiat.php - скрипт для парсину плагіату
-3.compare.php - скрипт для порівняння результатів парсину
-4.result_view.php - файл для виведення результату
+1.export_original.php - parsing of the main website sitemap.xml
+2.export_plagiat.php - Parsing of plagiat website sitemap.xml 
+3.compare.php - Comparing results
+4.result_view.php - Show matched pages
 
-Всі скрипти , окрім result_view.php, запускаємо з консолі у відповідному порядку
+Run all scripts, one by one in your terminal (except result_view.php)
